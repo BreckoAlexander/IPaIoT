@@ -12,6 +12,10 @@ Naspájkované piny \
 Dokúpiť senzory a akčné členy
 
 ### Prihlásenie sa do NetAcad
+[LINK](https://www.netacad.com)
+
+Reedem token vam nadiktujem
+
 ![Img](NetAcad.png)
 
-[LINK](https://www.netacad.com)
+
