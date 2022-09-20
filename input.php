@@ -5,4 +5,9 @@
     fwrite($myfile, $input_1);
     fwrite($myfile, $input_2);
     fclose($myfile);
+
+
+    $myfile = fopen("sens.txt", "r") or die("Unable to open file!");
+    echo fread($myfile,filesize("webdictionary.txt"));
+    fclose($myfile);
 ?>
