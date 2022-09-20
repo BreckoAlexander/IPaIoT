@@ -60,4 +60,4 @@ Cvičenia: Štvrtok 7:30-9:00, 9:10-10:40
     </ul>
 </ul>
 
-Počas cvičení možnosť získať 40b. Skúška bude upresnená pred koncom semestra za 60b
+Počas cvičení možnosť získať 40b. Skúška bude upresnená pred koncom semestra za 60b. Maximálne 3 absencie. Žiadny papier od doktorky netreba nosiť. Písať mail alebo na TEAMS. 
