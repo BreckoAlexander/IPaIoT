@@ -18,4 +18,10 @@ Reedem token vam nadiktujem
 
 ![Img](NetAcad.png)
 
+### Prihlásenie sa do Microsoft Azure
 
+Je potrebné vytvoriť si konto na [Microsoft Azure](https://portal.azure.com/). **Používatje študentské maily!**. Od Microsoftu dostanete študentské kredity v hodnote 100$, ktoré budete môcť využívať pri Vaších zadaniach. Možnosť využiť aj Microsoft Azure Starter pack for Students.
+
+![Img](MicrosoftAzure.png)
+
+Tieto kontá na Microsoft Azure budeme používať neskôr na cvičeniach. Odporúčam Vám sa s týmto prostredím zoznámiť.
