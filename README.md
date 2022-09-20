@@ -3,7 +3,7 @@
 Prednášky: doc. Ing. Peter Papcun, PhD. \
 Cvičenia: Ing. Alexander Brecko
 
-Prednášky: ? \
+Prednášky: Pondelok 13:30-15:00 \
 Cvičenia: Štvrtok 7:30-9:00, 9:10-10:40
 
 ## Osnova prednášok
