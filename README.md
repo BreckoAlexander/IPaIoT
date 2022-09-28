@@ -24,6 +24,7 @@ Cvičenia: Štvrtok 7:30-9:00, 9:10-10:40
     <ul>
         <li>NetAcad</li>
     </ul>
+    <li>Relačne polia</li>
     <li>ESP zadanie</li>
     <ul>
         <li>Učet Microsoft Azure</li>
