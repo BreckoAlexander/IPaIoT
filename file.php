@@ -12,4 +12,9 @@ fclose($file1);
 $file2 = fopen("actuator.txt","w") or die("Unable to open file!");
 fwrite($file2, $text1);
 fclose($file2);
+
+$file3 = fopen("actuator.txt","r") or die ("Subor neexistuje");
+$text3 = fread($file3,filesize("actuator.txt"));
+echo $text3;
+fclose($file3);
 ?>
