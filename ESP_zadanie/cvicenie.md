@@ -93,5 +93,8 @@ Načítanie dát z URL adresy a uloženie do súboru
 ```
 
 ### ESP code
+Setup Arduino IDE:
+
+https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
 
     http_request.ino
