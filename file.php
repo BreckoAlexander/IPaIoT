@@ -10,7 +10,7 @@ fwrite($file1, $text1);
 fclose($file1);
 
 $file2 = fopen("actuator.txt","w") or die("Unable to open file!");
-$text2 = "Value from actuator. Save this value to actuator.txt"
+$text2 = "Value from actuator. Save this value to actuator.txt";
 fwrite($file2, $text2);
 fclose($file2);
 
