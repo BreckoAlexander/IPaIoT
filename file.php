@@ -11,7 +11,7 @@ fclose($file1);
 
 
 $file2 = fopen("actuator.txt","w");
-fwrite($file2, "Hodnoty z akcneho clena");
+fwrite($file2, $text1);
 fclose($file2);
 
 $file3 = fopen("actuator.txt","r");
