@@ -9,6 +9,7 @@ $text1 = "a=" . $sn1 . " b=" . $sn2;
 fwrite($file1, $text1);
 fclose($file1);
 
-
-
+$file2 = fopen("actuator.txt","w") or die("Unable to open file!");
+fwrite($file2, $text1);
+fclose($file2);
 ?>
