@@ -1,5 +1,5 @@
 <?php
-echo '<h1>getParameters page</h1>'
+echo '<h1>getParameters page</h1>';
 
 $sn1 = $_GET["a"];
 $sn2 = $_GET["b"];
