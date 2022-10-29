@@ -67,7 +67,7 @@ void loop()
   if (WiFi.status() == WL_CONNECTED) 
   {
     HTTPClient http;
-    String server_name = "https://phpipaiot.azurewebsites.net/parameters.php/?"; // nazov vasho webu a web stranky, ktoru chcete nacitat
+    String server_name = "https://phpipaiot.azurewebsites.net/getParameters.php/?"; // nazov vasho webu a web stranky, ktoru chcete nacitat
     server_name += "a="; // nazov premennej na webe
     server_name += hodnota1; // hodnota premmenej
     server_name += "&b="; // nazov premennej na webe
