@@ -44,7 +44,7 @@ https://phpipaiot.azurewebsites.net
     - prihlasiť na sa GitHub
     - stlačiť . (bodka) 
     - prepne Vás do GitHub vývojového prostredia
-    - vytvoriť index.php
+    - vytvoriť vlastný index.php
 </ol>
 
 
@@ -52,3 +52,5 @@ https://phpipaiot.azurewebsites.net
 ```php
     <?php echo '<p>First web on Azure</p>'; ?>
 ```
+
+### getParameters.php
